@@ -1,5 +1,5 @@
 # About Me:
-Hi 👋! My name is Furkan Hazar and I'm a Backend Developer, from Türkiye<br>
+Hi 👋! My name is Furkan Hazar and I'm a Software Engineer, from Türkiye<br>
 
 
 ## 🌐 Socials:
